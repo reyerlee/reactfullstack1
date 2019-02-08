@@ -1,0 +1,29 @@
+{
+  "name": "reactfullstack1",
+  "version": "1.0.0",
+  "description": "full stake",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reyerlee/reactfullstack1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reyerlee/reactfullstack1/issues"
+  },
+  "homepage": "https://github.com/reyerlee/reactfullstack1#readme",
+  "devDependencies": {
+    "concurrently": "^4.1.0",
+    "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "pg": "^7.8.0"
+  }
+}
